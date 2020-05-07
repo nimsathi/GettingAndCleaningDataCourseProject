@@ -1,0 +1,96 @@
+# Code book
+---
+
+## Identifiers
+---
+* `activity` - the type of activity the test subject was performing when measurements were taken
+* `subject` - the ID of the test subject
+
+## Measurements
+---
+* `TimeBodyAccelerometerMeanX`	
+* `TimeBodyAccelerometerMeanY`	
+* `TimeBodyAccelerometerMeanZ`	
+* `TimeGravityAccelerometerMeanX`	
+* `TimeGravityAccelerometerMeanY`	
+* `TimeGravityAccelerometerMeanZ`	
+* `TimeBodyAccelerometerJerkMeanX`	
+* `TimeBodyAccelerometerJerkMeanY`	
+* `TimeBodyAccelerometerJerkMeanZ`	
+* `TimeBodyGyroscopeMeanX`	
+* `TimeBodyGyroscopeMeanY`	
+* `TimeBodyGyroscopeMeanZ`	
+* `TimeBodyGyroscopeJerkMeanX`	
+* `TimeBodyGyroscopeJerkMeanY`	
+* `TimeBodyGyroscopeJerkMeanZ`	
+* `TimeBodyAccelerometerMagnitude.mean`	
+* `TimeGravityAccelerometerMagnitude.mean`	
+* `TimeBodyAccelerometerJerkMagnitude.mean`	
+* `TimeBodyGyroscopeMagnitude.mean`	
+* `TimeBodyGyroscopeJerkMagnitude.mean`	
+* `FrequencyBodyAccelerometerMeanX`	
+* `FrequencyBodyAccelerometerMeanY`	
+* `FrequencyBodyAccelerometerMeanZ`	
+* `FrequencyBodyAccelerometer.meanFreqX`	
+* `FrequencyBodyAccelerometer.meanFreqY`	
+* `FrequencyBodyAccelerometer.meanFreqZ`	
+* `FrequencyBodyAccelerometerJerkMeanX`	
+* `FrequencyBodyAccelerometerJerkMeanY`	
+* `FrequencyBodyAccelerometerJerkMeanZ`	
+* `FrequencyBodyAccelerometerJerk.meanFreqX`	
+* `FrequencyBodyAccelerometerJerk.meanFreqY`	
+* `FrequencyBodyAccelerometerJerk.meanFreqZ`	
+* `FrequencyBodyGyroscopeMeanX`	
+* `FrequencyBodyGyroscopeMeanY`	
+* `FrequencyBodyGyroscopeMeanZ`	
+* `FrequencyBodyGyroscope.meanFreq...X`	
+* `FrequencyBodyGyroscope.meanFreq...Y`	
+* `FrequencyBodyGyroscope.meanFreq...Z`	
+* `FrequencyBodyAccelerometerMagnitude.mean..`	
+* `FrequencyBodyAccelerometerMagnitude.meanFreq..`	
+* `FrequencyBodyAccelerometerJerkMagnitude.mean..`	
+* `FrequencyBodyAccelerometerJerkMagnitude.meanFreq..`	
+* `FrequencyBodyGyroscopeMagnitude.mean..`	
+* `FrequencyBodyGyroscopeMagnitude.meanFreq..`	
+* `FrequencyBodyGyroscopeJerkMagnitude.mean..`	
+* `FrequencyBodyGyroscopeJerkMagnitude.meanFreq..`	
+* `angle.tBodyAccelerometerMean.gravity.`	
+* `angle.tBodyAccelerometerJerkMean..gravityMean.`	
+* `angle.tBodyGyroscopeMean.gravityMean.`	
+* `angle.tBodyGyroscopeJerkMean.gravityMean.`	
+* `angle.X.gravityMean.`	
+* `angle.Y.gravityMean.`	
+* `angle.Z.gravityMean.`	
+* `TimeBodyAccelerometerSTDX`	
+* `TimeBodyAccelerometerSTDY`	
+* `TimeBodyAccelerometerSTDZ`	
+* `TimeGravityAccelerometerSTDX`	
+* `TimeGravityAccelerometerSTDY`
+* `TimeGravityAccelerometerSTDZ`
+* `TimeBodyAccelerometerJerkSTDX`	
+* `TimeBodyAccelerometerJerkSTDY`	
+* `TimeBodyAccelerometerJerkSTDZ`	
+* `TimeBodyGyroscopeSTDX`	
+* `TimeBodyGyroscopeSTDY`	
+* `TimeBodyGyroscopeSTDZ`	
+* `TimeBodyGyroscopeJerkSTDX`	
+* `TimeBodyGyroscopeJerkSTDY`	
+* `TimeBodyGyroscopeJerkSTDZ`	
+* `TimeBodyAccelerometerMagnitudeSTD`	
+* `TimeGravityAccelerometerMagnitudeSTD`	
+* `TimeBodyAccelerometerJerkMagnitudeSTD`	
+* `TimeBodyGyroscopeMagnitudeSTD`	
+* `TimeBodyGyroscopeJerkMagnitudeSTD`	
+* `FrequencyBodyAccelerometerSTDX`	
+* `FrequencyBodyAccelerometerSTDY`	
+* `FrequencyBodyAccelerometerSTDZ`	
+* `FrequencyBodyAccelerometerJerkSTDX`	
+* `FrequencyBodyAccelerometerJerkSTDY`	
+* `FrequencyBodyAccelerometerJerkSTDZ`
+* `FrequencyBodyGyroscopeSTDX`	
+* `FrequencyBodyGyroscopeSTDY`	
+* `FrequencyBodyGyroscopeSTDZ`	
+* `FrequencyBodyAccelerometerMagnitudeSTD`	
+* `FrequencyBodyAccelerometerJerkMagnitudeSTD`
+* `FrequencyBodyGyroscopeMagnitudeSTD`	
+* `FrequencyBodyGyroscopeJerkMagnitudeSTD`
