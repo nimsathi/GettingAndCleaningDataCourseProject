@@ -1,13 +1,10 @@
 # Code book
----
 
 ## Identifiers
----
 * `activity` - the type of activity the test subject was performing when measurements were taken
 * `subject` - the ID of the test subject
 
 ## Measurements
----
 * `TimeBodyAccelerometerMeanX`	
 * `TimeBodyAccelerometerMeanY`	
 * `TimeBodyAccelerometerMeanZ`	
