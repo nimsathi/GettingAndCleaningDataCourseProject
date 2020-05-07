@@ -1,7 +1,13 @@
 # Code book
 
 ## Identifiers
-* `activity` - the type of activity the test subject was performing when measurements were taken
+* `activity` - the type of activity the test subject was performing when measurements were taken. Value values incude:
+   * WALKING
+   * WALKING_UPSTAIRS
+   * WALKING_DOWNSTAIRS
+   * SITTING
+   * STANDING
+   * LAYING
 * `subject` - the ID of the test subject
 
 ## Measurements
